@@ -1,0 +1,6 @@
+{
+  "name": "Biuro Rachunkowe AKTYWA",
+  "description": "Biuro Rachunkowe AKTYWA w Bydgoszczu. Kompleksowa i profesjonalna obsługa księgowa, kadrowo-płacowa oraz doradztwo podatkowe.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
